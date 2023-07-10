@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Co-Bie</string>
+    <string name="email">Email</string>
+    <string name="full_name">Full Name</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="birth_date">Birth Date</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="login">Login</string>
+    <string name="cont">Continue</string>
+    <string name="register">Register</string>
+    <string name="logout">Logout</string>
+    <string name="create_account">Sign Up</string>
+    <string name="for_signup">Not yet registered? SignUp Now</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="choose_hobbies">Choose Hobbies</string>
+    <string name="tab_sport">Sport</string>
+    <string name="tab_leisure">Leisure</string>
+    <string name="tab_games">Games</string>
+    <string name="menu_open">Open</string>
+    <string name="menu_close">Close</string>
+    <string name="nav_home_page">Home</string>
+    <string name="nav_my_profile">My Profile</string>
+    <string name="nav_my_events">My Events</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_about_us">About Us</string>
+    <string name="physical">Physical</string>
+    <string name="physical_main">Physical \u00A0 \u00A0 🧑‍🤝‍🧑</string>
+    <string name="virtual">Virtual</string>
+    <string name="virtual_main">Virtual \u00A0 \u00A0 💻</string>
+    <string name="api_key">AIzaSyD5sSTdjo538Utpi8YdXzB9l8kOKMgqkd4</string>
+    <string name="select_location">Select</string>
+    <string name="my_event_participate">Participate \u00A0 \u00A0 🫂</string>
+    <string name="my_event_manage">Manage \u00A0 \u00A0 👨‍💼</string>
+    <string name="event_feature_group_chat">Group chat \u00A0 💬</string>
+    <string name="event_feature_users">Event users \u00A0 👥</string>
+    <string name="event_feature_reviews">Reviews \u00A0 🤔</string>
+    <string name="add_review_spinner_hint">Type</string>
+    <string-array name="review_type_array">
+        <item>Opinion</item>
+        <item>Intellectual achievement</item>
+    </string-array>
+</resources>

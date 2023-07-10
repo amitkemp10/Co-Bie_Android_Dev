@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Event.Virtual.VirtualEventFragment">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/rv_event_reviews"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:scrollbars="vertical" />
+
+    <Button
+        android:id="@+id/add_review_button"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_gravity="bottom|end"
+        android:layout_margin="15dp"
+        android:background="@drawable/purple_circle"
+        android:text="+"
+        android:textColor="#ffffff"
+        android:textSize="30sp"
+        android:fontFamily="sans-serif-light"/>
+
+</FrameLayout>

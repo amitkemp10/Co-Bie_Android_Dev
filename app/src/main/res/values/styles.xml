@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="DateTimeDialog" parent="Theme.AppCompat.Light.Dialog">
+        <item name="colorAccent">@color/purple</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="TimePickerSpinner" parent="Theme.AppCompat.Light.Dialog">
+        <item name="android:timePickerMode">spinner</item>
+        <item name="colorAccent">@color/purple</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="AppCompatAlertDialogStyle" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/purple</item>
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:background">@color/white</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="RatingBar" parent="Theme.AppCompat">
+        <item name="colorControlNormal">@color/quantum_grey</item>
+        <item name="colorControlActivated">@color/gold</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="MyTimePickerDialogStyle" parent="@android:style/Theme.Holo.Light.Dialog">
+        <item name="android:textColorPrimary">@color/black</item>
+        <item name="android:textColor">@color/black</item>
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+    <style name="PurpleDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="colorAccent">@color/purple</item> <!-- purple accent color -->
+        <item name="android:textAllCaps">false</item>
+    </style>
+
+</resources>

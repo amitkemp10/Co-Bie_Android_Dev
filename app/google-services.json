@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "297221097595",
+    "project_id": "co-bie-2023",
+    "storage_bucket": "co-bie-2023.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:297221097595:android:4cfa822cd05c4df5567ade",
+        "android_client_info": {
+          "package_name": "com.example.co_bie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "297221097595-he1c6boab88a435k57saa43cbar8tn8l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADcvlU7oORTk3lrEaEiVQUM3MzpyMsPqw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "297221097595-he1c6boab88a435k57saa43cbar8tn8l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

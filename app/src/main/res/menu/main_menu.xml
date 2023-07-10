@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home_page"
+            android:icon="@drawable/ic_home"
+            android:title="@string/nav_home_page" />
+        <item
+            android:id="@+id/nav_my_profile"
+            android:icon="@drawable/ic_person"
+            android:title="@string/nav_my_profile" />
+        <item
+            android:id="@+id/nav_my_events"
+            android:icon="@drawable/ic_events"
+            android:title="@string/nav_my_events" />
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item android:title="Authentication">
+            <menu>
+                <item
+                    android:id="@+id/nav_logout"
+                    android:icon="@drawable/ic_logout"
+                    android:title="@string/nav_logout" />
+                <item
+                    android:id="@+id/nav_about_us"
+                    android:icon="@drawable/ic_info"
+                    android:title="@string/nav_about_us" />
+            </menu>
+        </item>
+    </group>
+
+</menu>
